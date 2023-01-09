@@ -32,3 +32,83 @@ bird_questions = [
         "answer": "Ardeotis",
     },
 ]
+
+state_capitols = [
+    {
+        "text": "Alabama",
+        "answer": "Montgomery",
+    },
+    {
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },{
+        "text": "What is the largest flying bird native to Africa?",
+        "answer": "Ardeotis",
+    },
+]
