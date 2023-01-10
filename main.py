@@ -1,16 +1,21 @@
 import random
 import data
 from question_model import Question
-from quiz_brain import QuizBrain
+from quiz import Quiz
 
-question_data = data.bird_questions
+question_data = data.animals
 
 questions = []
-for question in question_data:
-    new_question = Question(question["text"], question["answer"])
+for question in question_data:  
+    new_question = Question(question["question"], question["correct_answer"], question["type"], question["incorrect_answers"])
+    if question["type"] == "multiple": 
+        random.shuffle(new_question.choices)
     questions.append(new_question)
 
-quiz = QuizBrain(questions)
+quiz = Quiz(questions)
 
 while quiz.questions_remaining():
     quiz.next_question()
+
+print("Quiz complete!")
+print(f"You got {quiz.score} out of {quiz.question_number} questions.")
